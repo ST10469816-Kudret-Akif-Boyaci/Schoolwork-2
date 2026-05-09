@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\obj\Debug\net10.0\RevisionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\obj\Debug\net10.0\RevisionExample.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\obj\Debug\net10.0\RevisionExample.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\obj\Debug\net10.0\RevisionExample.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\bin\Debug\net10.0\RevisionExample.exe
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\bin\Debug\net10.0\RevisionExample.deps.json
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\bin\Debug\net10.0\RevisionExample.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\bin\Debug\net10.0\RevisionExample.dll
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\bin\Debug\net10.0\RevisionExample.pdb
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\obj\Debug\net10.0\RevisionExample.dll
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\obj\Debug\net10.0\refint\RevisionExample.dll
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\obj\Debug\net10.0\RevisionExample.pdb
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\obj\Debug\net10.0\RevisionExample.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\RevisionExample\RevisionExample\obj\Debug\net10.0\ref\RevisionExample.dll
