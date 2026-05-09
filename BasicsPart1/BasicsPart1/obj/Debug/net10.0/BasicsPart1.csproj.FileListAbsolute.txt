@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\bin\Debug\net10.0\BasicsPart1.exe
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\bin\Debug\net10.0\BasicsPart1.deps.json
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\bin\Debug\net10.0\BasicsPart1.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\bin\Debug\net10.0\BasicsPart1.dll
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\bin\Debug\net10.0\BasicsPart1.pdb
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\obj\Debug\net10.0\BasicsPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\obj\Debug\net10.0\BasicsPart1.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\obj\Debug\net10.0\BasicsPart1.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\obj\Debug\net10.0\BasicsPart1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\obj\Debug\net10.0\BasicsPart1.dll
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\obj\Debug\net10.0\refint\BasicsPart1.dll
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\obj\Debug\net10.0\BasicsPart1.pdb
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\obj\Debug\net10.0\BasicsPart1.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\BasicsPart1\BasicsPart1\obj\Debug\net10.0\ref\BasicsPart1.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Accessors_Mutators": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

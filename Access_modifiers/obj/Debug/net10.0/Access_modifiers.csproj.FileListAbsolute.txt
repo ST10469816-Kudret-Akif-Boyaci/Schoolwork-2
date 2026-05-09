@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\Access_modifiers\bin\Debug\net10.0\Access_modifiers.exe
+C:\Users\lab_services_student\source\repos\Access_modifiers\bin\Debug\net10.0\Access_modifiers.deps.json
+C:\Users\lab_services_student\source\repos\Access_modifiers\bin\Debug\net10.0\Access_modifiers.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\Access_modifiers\bin\Debug\net10.0\Access_modifiers.dll
+C:\Users\lab_services_student\source\repos\Access_modifiers\bin\Debug\net10.0\Access_modifiers.pdb
+C:\Users\lab_services_student\source\repos\Access_modifiers\obj\Debug\net10.0\Access_modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\Access_modifiers\obj\Debug\net10.0\Access_modifiers.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\Access_modifiers\obj\Debug\net10.0\Access_modifiers.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\Access_modifiers\obj\Debug\net10.0\Access_modifiers.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\Access_modifiers\obj\Debug\net10.0\Access_modifiers.dll
+C:\Users\lab_services_student\source\repos\Access_modifiers\obj\Debug\net10.0\refint\Access_modifiers.dll
+C:\Users\lab_services_student\source\repos\Access_modifiers\obj\Debug\net10.0\Access_modifiers.pdb
+C:\Users\lab_services_student\source\repos\Access_modifiers\obj\Debug\net10.0\Access_modifiers.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\Access_modifiers\obj\Debug\net10.0\ref\Access_modifiers.dll
