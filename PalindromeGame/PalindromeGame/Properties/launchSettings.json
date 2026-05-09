@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PalindromeGame": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

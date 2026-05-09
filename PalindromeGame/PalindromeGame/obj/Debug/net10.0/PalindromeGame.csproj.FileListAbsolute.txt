@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\bin\Debug\net10.0\PalindromeGame.exe
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\bin\Debug\net10.0\PalindromeGame.deps.json
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\bin\Debug\net10.0\PalindromeGame.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\bin\Debug\net10.0\PalindromeGame.dll
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\bin\Debug\net10.0\PalindromeGame.pdb
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\obj\Debug\net10.0\PalindromeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\obj\Debug\net10.0\PalindromeGame.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\obj\Debug\net10.0\PalindromeGame.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\obj\Debug\net10.0\PalindromeGame.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\obj\Debug\net10.0\PalindromeGame.dll
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\obj\Debug\net10.0\refint\PalindromeGame.dll
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\obj\Debug\net10.0\PalindromeGame.pdb
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\obj\Debug\net10.0\PalindromeGame.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\PalindromeGame\PalindromeGame\obj\Debug\net10.0\ref\PalindromeGame.dll

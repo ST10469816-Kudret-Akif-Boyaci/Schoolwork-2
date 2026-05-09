@@ -1,0 +1,6 @@
+C:\Users\lab_services_student\source\repos\MultipleClasses\MultipleClasses\bin\Debug\MultipleClasses.dll
+C:\Users\lab_services_student\source\repos\MultipleClasses\MultipleClasses\bin\Debug\MultipleClasses.pdb
+C:\Users\lab_services_student\source\repos\MultipleClasses\MultipleClasses\obj\Debug\MultipleClasses.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\MultipleClasses\MultipleClasses\obj\Debug\MultipleClasses.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\MultipleClasses\MultipleClasses\obj\Debug\MultipleClasses.dll
+C:\Users\lab_services_student\source\repos\MultipleClasses\MultipleClasses\obj\Debug\MultipleClasses.pdb
