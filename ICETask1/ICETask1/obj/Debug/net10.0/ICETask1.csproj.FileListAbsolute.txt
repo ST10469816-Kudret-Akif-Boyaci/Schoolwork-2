@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\obj\Debug\net10.0\ICETask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\obj\Debug\net10.0\ICETask1.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\obj\Debug\net10.0\ICETask1.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\obj\Debug\net10.0\ICETask1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\bin\Debug\net10.0\ICETask1.exe
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\bin\Debug\net10.0\ICETask1.deps.json
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\bin\Debug\net10.0\ICETask1.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\bin\Debug\net10.0\ICETask1.dll
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\bin\Debug\net10.0\ICETask1.pdb
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\obj\Debug\net10.0\ICETask1.dll
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\obj\Debug\net10.0\refint\ICETask1.dll
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\obj\Debug\net10.0\ICETask1.pdb
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\obj\Debug\net10.0\ICETask1.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\ICETask1\ICETask1\obj\Debug\net10.0\ref\ICETask1.dll

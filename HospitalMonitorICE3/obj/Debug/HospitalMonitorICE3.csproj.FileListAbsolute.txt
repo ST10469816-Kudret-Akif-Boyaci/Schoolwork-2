@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\source\repos\HospitalMonitorICE3\bin\Debug\HospitalMonitorICE3.exe.config
+C:\Users\lab_services_student\source\repos\HospitalMonitorICE3\bin\Debug\HospitalMonitorICE3.exe
+C:\Users\lab_services_student\source\repos\HospitalMonitorICE3\bin\Debug\HospitalMonitorICE3.pdb
+C:\Users\lab_services_student\source\repos\HospitalMonitorICE3\obj\Debug\HospitalMonitorICE3.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\HospitalMonitorICE3\obj\Debug\HospitalMonitorICE3.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\HospitalMonitorICE3\obj\Debug\HospitalMonitorICE3.exe
+C:\Users\lab_services_student\source\repos\HospitalMonitorICE3\obj\Debug\HospitalMonitorICE3.pdb

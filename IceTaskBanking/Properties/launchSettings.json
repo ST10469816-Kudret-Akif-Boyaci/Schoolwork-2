@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IceTaskBanking": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
