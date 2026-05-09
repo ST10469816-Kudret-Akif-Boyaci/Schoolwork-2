@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\bin\Debug\net10.0\FunWithNumbers.exe
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\bin\Debug\net10.0\FunWithNumbers.deps.json
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\bin\Debug\net10.0\FunWithNumbers.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\bin\Debug\net10.0\FunWithNumbers.dll
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\bin\Debug\net10.0\FunWithNumbers.pdb
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\obj\Debug\net10.0\FunWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\obj\Debug\net10.0\FunWithNumbers.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\obj\Debug\net10.0\FunWithNumbers.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\obj\Debug\net10.0\FunWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\obj\Debug\net10.0\FunWithNumbers.dll
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\obj\Debug\net10.0\refint\FunWithNumbers.dll
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\obj\Debug\net10.0\FunWithNumbers.pdb
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\obj\Debug\net10.0\FunWithNumbers.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\FunWithNumbers\FunWithNumbers\obj\Debug\net10.0\ref\FunWithNumbers.dll
