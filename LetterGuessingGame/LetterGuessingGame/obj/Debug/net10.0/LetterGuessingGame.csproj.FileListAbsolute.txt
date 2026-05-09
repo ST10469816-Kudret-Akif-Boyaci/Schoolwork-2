@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\bin\Debug\net10.0\LetterGuessingGame.exe
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\bin\Debug\net10.0\LetterGuessingGame.deps.json
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\bin\Debug\net10.0\LetterGuessingGame.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\bin\Debug\net10.0\LetterGuessingGame.dll
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\bin\Debug\net10.0\LetterGuessingGame.pdb
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\obj\Debug\net10.0\LetterGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\obj\Debug\net10.0\LetterGuessingGame.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\obj\Debug\net10.0\LetterGuessingGame.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\obj\Debug\net10.0\LetterGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\obj\Debug\net10.0\LetterGuessingGame.dll
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\obj\Debug\net10.0\refint\LetterGuessingGame.dll
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\obj\Debug\net10.0\LetterGuessingGame.pdb
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\obj\Debug\net10.0\LetterGuessingGame.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\LetterGuessingGame\LetterGuessingGame\obj\Debug\net10.0\ref\LetterGuessingGame.dll

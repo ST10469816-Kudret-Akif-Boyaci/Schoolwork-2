@@ -1,0 +1,6 @@
+C:\Users\lab_services_student\source\repos\mathLibrary\mathLibrary\bin\Debug\mathLibrary.dll
+C:\Users\lab_services_student\source\repos\mathLibrary\mathLibrary\bin\Debug\mathLibrary.pdb
+C:\Users\lab_services_student\source\repos\mathLibrary\mathLibrary\obj\Debug\mathLibrary.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\mathLibrary\mathLibrary\obj\Debug\mathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\mathLibrary\mathLibrary\obj\Debug\mathLibrary.dll
+C:\Users\lab_services_student\source\repos\mathLibrary\mathLibrary\obj\Debug\mathLibrary.pdb

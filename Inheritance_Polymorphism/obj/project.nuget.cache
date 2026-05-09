@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gnPRFpm4J2M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\Inheritance_Polymorphism\\Inheritance_Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
